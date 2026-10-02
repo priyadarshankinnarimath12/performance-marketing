@@ -1,10 +1,11 @@
 # performance-marketing
 This repository is a collection of paid acquisition work across Mygate, Kongsi Tea Bar, and Frozen Bottle across Meta, Google, and LinkedIn.
 
+### [Explore Performance Marketing Projects](https://www.behance.net/gallery/244348745/Digital-Marketing-Portfolio-2026-Priyadarshan)
 
 ---
 
-## Mygate
+### Mygate
 
 ### Objective
 Drive qualified acquisition across **Mygate Homes, CEP campaigns, and Middle East markets**.
@@ -60,14 +61,14 @@ Generate franchise leads, capture high-intent demand, and drive local store disc
 
 ### Google Ads
 
-**Google Search — Franchise**
+**Google Search - Franchise**
 - **345.8K impressions**
 - **11,246 clicks**
 - **337 leads**
 - **₹269.42 cost per conversion**
 - **₹90.8K spend**
 
-**Google Search + Maps — Store Discovery**
+**Google Search + Maps - Store Discovery**
 - **49.3K impressions**
 - **4,632 clicks**
 - **9.38% CTR**
@@ -105,7 +106,7 @@ Managed end-to-end campaigns across **Lead Generation, Sales, Engagement, Awaren
 
 ### Google Ads
 
-**Google Search — Franchise**
+**Google Search - Franchise**
 - **345.8K impressions**
 - **11,246 clicks**
 - **337 leads**
