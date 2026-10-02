@@ -1,11 +1,11 @@
 # performance-marketing
 This repository is a collection of paid acquisition work across Mygate, Kongsi Tea Bar, and Frozen Bottle across Meta, Google, and LinkedIn.
 
-### [Explore Performance Marketing Projects](https://www.behance.net/gallery/244348745/Digital-Marketing-Portfolio-2026-Priyadarshan)
+👉 [Explore Performance Marketing Projects](https://www.behance.net/gallery/244348745/Digital-Marketing-Portfolio-2026-Priyadarshan)
 
 ---
 
-### Mygate
+## Mygate
 
 ### Objective
 Drive qualified acquisition across **Mygate Homes, CEP campaigns, and Middle East markets**.
